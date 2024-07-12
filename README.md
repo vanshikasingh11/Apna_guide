@@ -1,1 +1,3 @@
-# Apna_guide
+# Internship Projects at Apna Guide
+
+During my internship at Apna Guide, I developed several robust and efficient applications using C/C++. These projects include a comprehensive Banking Management System, a fully functional Library Management System, a user-friendly Simple Calculator, an intuitive Student Grade Tracker, and a strategic Chess game. Each project showcases my ability to solve complex problems, write clean code, and develop software solutions that meet real-world needs. These experiences have significantly enhanced my skills in C/C++ and reinforced my passion for software development.
