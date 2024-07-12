@@ -1,0 +1,7 @@
+advik,1,9,9
+vanshika,2,10,10
+savita,3,6.7,6.7
+kavita,4,5.4,5.4
+ravi,5,4,4
+tina,6,8,8
+shreya,7,10,10
